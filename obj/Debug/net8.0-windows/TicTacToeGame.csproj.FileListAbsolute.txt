@@ -1,0 +1,17 @@
+F:\Учёба\C#\TicTacToeGame\obj\Debug\net8.0-windows\TicTacToeGame.Form1.resources
+F:\Учёба\C#\TicTacToeGame\obj\Debug\net8.0-windows\TicTacToe.GameView.resources
+F:\Учёба\C#\TicTacToeGame\obj\Debug\net8.0-windows\TicTacToeGame.csproj.GenerateResource.cache
+F:\Учёба\C#\TicTacToeGame\obj\Debug\net8.0-windows\TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учёба\C#\TicTacToeGame\obj\Debug\net8.0-windows\TicTacToeGame.AssemblyInfoInputs.cache
+F:\Учёба\C#\TicTacToeGame\obj\Debug\net8.0-windows\TicTacToeGame.AssemblyInfo.cs
+F:\Учёба\C#\TicTacToeGame\obj\Debug\net8.0-windows\TicTacToeGame.csproj.CoreCompileInputs.cache
+F:\Учёба\C#\TicTacToeGame\bin\Debug\net8.0-windows\TicTacToeGame.exe
+F:\Учёба\C#\TicTacToeGame\bin\Debug\net8.0-windows\TicTacToeGame.deps.json
+F:\Учёба\C#\TicTacToeGame\bin\Debug\net8.0-windows\TicTacToeGame.runtimeconfig.json
+F:\Учёба\C#\TicTacToeGame\bin\Debug\net8.0-windows\TicTacToeGame.dll
+F:\Учёба\C#\TicTacToeGame\bin\Debug\net8.0-windows\TicTacToeGame.pdb
+F:\Учёба\C#\TicTacToeGame\obj\Debug\net8.0-windows\TicTacToeGame.dll
+F:\Учёба\C#\TicTacToeGame\obj\Debug\net8.0-windows\refint\TicTacToeGame.dll
+F:\Учёба\C#\TicTacToeGame\obj\Debug\net8.0-windows\TicTacToeGame.pdb
+F:\Учёба\C#\TicTacToeGame\obj\Debug\net8.0-windows\TicTacToeGame.genruntimeconfig.cache
+F:\Учёба\C#\TicTacToeGame\obj\Debug\net8.0-windows\ref\TicTacToeGame.dll
